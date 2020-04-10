@@ -4,7 +4,6 @@
   "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
-    "babel-jest": "25.3.0",
     "firebase": "7.14.0",
     "node-sass": "4.13.1",
     "react": "^16.8.6",
